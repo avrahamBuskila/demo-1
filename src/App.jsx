@@ -7,7 +7,7 @@ function App() {
  
 
   return <>
-  <h1>this is jsx</h1>
+  <h1>this is my first jsx </h1>
   console.log('App component rendered');
 
   </>
